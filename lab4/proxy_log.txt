@@ -1,0 +1,42 @@
+/www.google.com 404
+/favicon.ico 404
+/www.google.com 404
+/www.google.com 404
+/www.google.com 404
+/www.google.com 400
+/www.google.com 400
+/www.google.com 400
+www.google.com 404
+www.google.com 404
+www.google.com 404
+bebra 302
+bebra 302
+www.google.com 302
+www.youtube.com 302
+www.instagram.com 301
+www.youtube.com 301
+/www.google.com 302
+/genius.com/Ka-hdami-50-lyrics 301
+/genius.com/Ka-hdami-50-lyrics 301
+/www.google.com 302
+/genius.com/Ka-hdami-50-lyrics 301
+/genius.com/Ka-hdami-50-lyrics 301
+/genius.com/Ka-hdami-50-lyrics 301
+/instagram.com 302
+/youtube.com 301
+/bebra.com Unable to decode response
+/bebra.com Unable to decode response
+/bebra.com Unable to decode response
+/youtube.com 301
+/www.google.com 405
+/www.google.com 405
+/www.google.com 302
+/www.youtube.com 301
+/www.youtube.com/watch?v=TybHwY1s0Pc 301
+/www.bebra.com 400
+/bebra.com 400
+/youtube.com/131241 301
+/www.google.com 405
+/www.google.com 302
+/www.google.com 302
+/www.youtube.com 301
