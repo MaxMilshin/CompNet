@@ -7,3 +7,5 @@
 ## Задание 2
 
 Код: `code/dv_algorithm.py`
+
+Фото-подтверждение: `photos/pic2.png`
